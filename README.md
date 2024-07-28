@@ -1,2 +1,2 @@
 # rs-core
-目的是一个博客的后端核心
+Served by nestjs, building the blog backend.
